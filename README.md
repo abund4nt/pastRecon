@@ -9,12 +9,12 @@ Passive fuzzing tool that uses the Wayback Machine to retrieve archived URLs for
 - Lightweight and easy to use
 - Requires only Python 3 and `requests`
 
-## 🛠Installation
+## Installation
 
 Clone the repository and make sure you have `requests` installed:
 
 ```bash
-git clone https://github.com/yourusername/pastRecon.git
+git clone https://github.com/abund4nt/pastRecon.git
 cd pastRecon
 pip install requests
 ````
